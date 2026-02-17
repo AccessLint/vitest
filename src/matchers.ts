@@ -19,7 +19,8 @@ function scopeViolationsToElement(
 ): Violation[] {
   return violations.filter((v) => {
     try {
-      const el = root.ownerDocument.querySelector(v.selector);
+      const local = v.selector.replace(/^.*>>>\s*iframe>\s*/, "");
+      const el = root.ownerDocument.querySelector(local);
       return el && root.contains(el);
     } catch {
       return false;
