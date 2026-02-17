@@ -1,6 +1,6 @@
 {
   "name": "@accesslint/vitest",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Accessibility assertions for Vitest — toBeAccessible() matcher powered by AccessLint",
   "license": "MIT",
   "publishConfig": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AccessLint/core.git"
+    "url": "git+https://github.com/AccessLint/vitest.git"
   },
   "bugs": {
-    "url": "https://github.com/AccessLint/core/issues"
+    "url": "https://github.com/AccessLint/vitest/issues"
   },
   "type": "module",
   "exports": {
