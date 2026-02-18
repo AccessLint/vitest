@@ -1,6 +1,6 @@
 {
   "name": "@accesslint/vitest",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Accessibility assertions for Vitest — toBeAccessible() matcher powered by AccessLint",
   "license": "MIT",
   "publishConfig": {
@@ -38,7 +38,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@accesslint/core": "^0.6.5"
+    "@accesslint/core": "^0.6.6"
   },
   "devDependencies": {
     "happy-dom": "^20.6.1",
