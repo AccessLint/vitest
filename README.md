@@ -1,6 +1,6 @@
 # @accesslint/vitest
 
-Accessibility assertions for Vitest. Adds a `toBeAccessible()` matcher powered by [AccessLint](https://accesslint.com) that checks for WCAG 2.1 Level A and AA violations.
+Accessibility assertions for Vitest. Adds a `toBeAccessible()` matcher powered by [AccessLint](https://www.accesslint.com?ref=readme_vitest) that checks for WCAG 2.1 Level A and AA violations.
 
 ## Installation
 
