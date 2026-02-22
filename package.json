@@ -38,7 +38,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@accesslint/core": "^0.6.6"
+    "@accesslint/core": "^0.8.2"
   },
   "devDependencies": {
     "happy-dom": "^20.6.1",
