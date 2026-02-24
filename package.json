@@ -1,6 +1,6 @@
 {
   "name": "@accesslint/vitest",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Accessibility assertions for Vitest — toBeAccessible() matcher powered by AccessLint",
   "license": "MIT",
   "publishConfig": {
